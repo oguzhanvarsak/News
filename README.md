@@ -13,4 +13,4 @@ Screenshots (while pressing) |
 ### Social
 
 -------------
-![GitHub followers](https://img.shields.io/github/followers/oguzhanvarsak?style=social) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/oguzhanvarsak?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/y_me_3883822002?style=social)
+![GitHub followers](https://img.shields.io/github/followers/oguzhanvarsak?style=social) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/oguzhanvarsak?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/oguzhanvarsak?style=social)
