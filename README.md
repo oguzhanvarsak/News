@@ -1,5 +1,6 @@
 <img src="/Screenshots/Application Icon.png" width="100" align=middle>
 
+![iOS](https://img.shields.io/badge/iOS-414141?style=flat&logo=ios&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 -------------
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/oguzhanvarsak/News/master) [![Build Status](https://www.travis-ci.com/oguzhanvarsak/News.svg)](https://www.travis-ci.com/oguzhanvarsak/News) ![GitHub top language](https://img.shields.io/github/languages/top/oguzhanvarsak/News) ![Lines of code](https://img.shields.io/tokei/lines/github/oguzhanvarsak/News)
 
