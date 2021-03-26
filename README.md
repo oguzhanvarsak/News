@@ -5,6 +5,7 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/oguzhanvarsak/News/master) [![Build Status](https://www.travis-ci.com/oguzhanvarsak/News.svg)](https://www.travis-ci.com/oguzhanvarsak/News) ![GitHub top language](https://img.shields.io/github/languages/top/oguzhanvarsak/News) ![Lines of code](https://img.shields.io/tokei/lines/github/oguzhanvarsak/News)
 
 ### Description
+------
 News application for iOS with NewsAPI [(Live top headlines from Turkey)](https://newsapi.org/s/turkey-news-api)
 
 Screenshots (while pressing) |
